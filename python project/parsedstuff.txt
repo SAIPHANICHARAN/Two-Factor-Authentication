@@ -1,0 +1,6 @@
+'''import csv
+path = "C:\Users\S SAI PHANI CHARAN\Desktop\python project/collecteddata.txt"
+lines=[line for line in open(path)]
+a = lines[0].strip().split(',')
+for i in range(len(a)):
+    print(a[i])'''
